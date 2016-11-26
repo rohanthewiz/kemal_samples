@@ -1,0 +1,9 @@
+.idea/
+
+/doc/
+/libs/
+/lib/
+/.crystal/
+/.shards/
+
+sample

@@ -1,0 +1,11 @@
+name: sample
+version: 0.1.0
+
+authors:
+  - Rohan Allison <rohanthewiz_at_gmail.com>
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
