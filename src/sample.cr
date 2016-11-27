@@ -11,6 +11,11 @@ module Sample
   	{name: "Serdar", age: 27}.to_json
   end
   
+  get "/hello/:name" do |ctx|
+  	name = ctx.params.url["name"]
+  	render "views/hello.ecr", "views/layouts/layout.ecr"
+  end
+  
   # Optional custom 404 handler
   error 404 do
     "Dude, I couldn't find that page!"
