@@ -3,7 +3,7 @@ Running through some Kemal exercises.
 
 ## The Skinny
 Kemal is a Sinatra-like framework written in [Crystal](https://github.com/crystal-lang/crystal) (a very fast, compiled, ruby-like language).
-This is truly a dream come true!!
+This is truly a dream come true! It is truly hard to continue doing Go right now ;-)
 
 ## Installation
 See instructions here http://kemalcr.com/docs/getting_started/
